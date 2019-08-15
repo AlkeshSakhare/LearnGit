@@ -2,4 +2,10 @@ Welcome to programming planet
 
 This is editing file in testbranch
 
+<<<<<<< HEAD
 This is next line commited from web
+=======
+This is next line commited from web
+
+This is next line commited from web
+>>>>>>> 3a469ecbf7f6abdbf85119baac3a7411efdf5763
